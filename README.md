@@ -5,5 +5,5 @@ Disclaimer: Stating the obvious that they are not commercially focused, they are
 
 Feel free to check them out & share feedback!
 
-Thanks,
+Thanks, </br>
 Nikos
