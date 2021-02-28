@@ -1,9 +1,9 @@
 # Purpose: This is a simple Python GUI application using Tkinter (Python's default standard GUI package)
-# Details for Tkinter --> https://wiki.python.org/moin/TkInter 
-# Date: 06.09.2020
+# Details for Tkinter --> https://wiki.python.org/moin/TkInter
+# Creation Date: 06.09.2020
 # Author: Nikos Hatiras
-# Revision: 0.1
-# Comments: Tested w/ success on Windows 10 OS
+# Revision: 0.2
+# Comments: Tested w/ success on Windows 10 and Ubuntu 20.10 Groovy Gorilla OS
 
 import tkinter as tk
 from tkinter import filedialog, Text
